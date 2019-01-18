@@ -1,2 +1,2 @@
-# Dimensionality_Reduction
+# Dimensionality Reduction
 python code for dimensionality reduction
