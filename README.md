@@ -1,2 +1,3 @@
 # Dimensionality Reduction
-python code for dimensionality reduction
+
+Python code for dimensionality reduction covering UMAP, t-SNE, PCA and ICA
